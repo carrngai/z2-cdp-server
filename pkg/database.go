@@ -14,4 +14,5 @@ func (db *Database) Close() {
 
 func (db *Database) QueryData() {
 	// Implement your database query logic here
+
 }
