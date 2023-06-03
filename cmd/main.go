@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/carrngai/z2-cdp-server/pkg/database"
-	"github.com/carrngai/z2-cdp-server/pkg/gateway"
+	"./pkg/database"
+	"./pkg/gateway"
 )
 
 func main() {

@@ -10,4 +10,5 @@ func NewGateway() *Gateway {
 
 func (gw *Gateway) Start() {
 	// Implement your gateway logic here
+
 }
